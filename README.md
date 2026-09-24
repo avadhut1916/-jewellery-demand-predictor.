@@ -27,6 +27,8 @@ The main user is a small shop owner or manager, who would use it before placing 
 
 The output is meant as decision support. The owner stays in charge and can override it based on local knowledge.
 
+  <img src="workflow.png" width="700">
+
 ## Data sources and AI methods
 
 **Data**
